@@ -15,6 +15,9 @@
 
 # Libft: Custom C Library
 
+<p align="center">
+	<img src= "https://user-images.githubusercontent.com/85964972/132143244-c89cd42b-ec35-4bb0-a348-3370efc89db2.png"/>
+</p>
 Libft is a custom C library designed to empower developers in mastering fundamental programming concepts. By offering essential functions commonly found in standard C libraries, it facilitates comprehension and skill development in C programming. 
 
 ## Key Features:
