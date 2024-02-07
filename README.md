@@ -18,7 +18,7 @@
 <p align="center">
 	<img src= "https://user-images.githubusercontent.com/88405217/192701681-4ed74a77-859f-4993-a71f-57328145951c.png" width="100" height="100"/>
 	<img src= "https://user-images.githubusercontent.com/85964972/132143244-c89cd42b-ec35-4bb0-a348-3370efc89db2.png"/>
-	<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/2048px-42_Logo.svg.png">
+	<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/2048px-42_Logo.svg.png" width="100" height="100">
 </p>
 Libft is a custom C library designed to empower developers in mastering fundamental programming concepts. By offering essential functions commonly found in standard C libraries, it facilitates comprehension and skill development in C programming. 
 
